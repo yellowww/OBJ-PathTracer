@@ -1,5 +1,4 @@
 const fs = require('fs');
-//const {createCanvas} = require("canvas");
 const pureImage = require("pureimage");
 const config = require("./config.js");
 const post = require("./postProcessing.js");
